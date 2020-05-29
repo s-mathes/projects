@@ -1,3 +1,5 @@
+Project from Intro to Databases
+
 Download the CSV ﬁle containing 5000 tuples from a movie database. This data is inserted into a schema of my design in MySQL, and converted from First Normal Form to Second Normal Form. The insertion is does using Python 3. 
 
 To run code and build database, navigate to file folder in command line and 
