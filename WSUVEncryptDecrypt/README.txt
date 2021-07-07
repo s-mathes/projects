@@ -1,5 +1,5 @@
 Sarah Robison-Mathes
-Project 1
+CS 427, Project 1
 Encryption/Decryption
 sarah.robison-mathes@wsu.edu
 
