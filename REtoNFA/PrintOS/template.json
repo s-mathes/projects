@@ -1,0 +1,17 @@
+{
+  "state": {
+    "reported": {
+      "welcome": "raspberrypi",
+      "state": "running",
+      "configuration": {
+        "version": 1,
+        "os": "linux"
+      },
+      "capabilities": {
+        "stop": true,
+        "start": false,
+        "restart": true
+      }
+    }
+  }
+}
