@@ -1,4 +1,4 @@
-Sarah Mathes, Jakob Miner, Spencer Ross
+Sarah Mathes
 Project 2: Mini Shell Program
 
 Run command 'make' to compile.
