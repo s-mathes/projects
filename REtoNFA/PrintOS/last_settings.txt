@@ -1,1 +1,0 @@
-raspberrypi|abf4sgqhlv97b-ats.iot.us-west-2.amazonaws.com|C:\Users\danst\Downloads\b3d69ebb5a-certificate.pem.crt.txt|C:\Users\danst\Downloads\b3d69ebb5a-private.pem.key|raspberrypi|testShadow|C:\Users\danst\Documents\GitHub\PrintOS\template.json
