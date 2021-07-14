@@ -1,0 +1,55 @@
+Machine learning is a subfield of artificial intelligence which involves self-learning algorithms that derives knowledge from data in order to make predictions.
+
+THREE TYPES OF MACHINE LEARNING
+Supervised Learning - labeled data, direct feedback, predicts outcome
+Unsupervised learning - no labels, no feedback, finds hidden structure in data
+Reinforcement Learning - decision process, reward system, learns a series of actions
+
+MAKING PREDICTIONS ABOUT THE FUTURES WITH SUPERVISED LEARNING
+Goal - learn a model from labeled training data that allows predictions of the future.
+Training examples -> data input
+Labels -> data output
+Subcategories of supervised learning - classification task (discrete class labels), regression (outcome signal is a continuous value)
+
+CLASSIFICATION FOR PREDICTING CLASS LABELS
+Classification - goal is to predict the categorical labels of new instances based on past observations.
+Multiclass classification - the set of class labels is discrete but not binary.
+
+REGRESSION FOR PREDICTING CONTINUOUS OUTCOMES
+Regression analysis is the prediction of continuous outcomes.
+Explanatory variables - a number of predictor variables, often called "features"
+Outcome variables - a continuous response variable, often called "target variables"
+Try to find a relationship between explanatory and outcome variables.
+
+SOLIVING INTERACTIVE PROBLEMS WITH REINFORCEMENT LEARNING
+The goal is to develop a system (agent) that improves its performace based on interactions with the environment.
+Reward signal - information about the current state of the environment usually includes a reward signal.
+Reinforcement learning is a field related to supervised learning, but the feedback is not the correct calue, but a masure of how well the action was measured by a reward function.
+The agent tries to maximize the reward through interactions with the environment.
+
+DISCOVERING HIDDEN STRUCTURES WITH UNSUPERVISED LEARNING
+In supervised learning, we know the right answer beforehand.
+In unsupervised learning, we deal with unlabeled or data of unknown structure, and we are able to explore its structure to extract meaningful data.
+
+FINDING SUBGROUPS WITH CLUSTERING
+Clustering - exploratory data analysis technique that allows us to organize a pile of information into meaningful subgroups (clusters)
+Clustering is also known as unsupervised classification.
+
+DIMENSIONALITY REDUCTION FOR DATA COMPRESSION
+High dimensionality is when each observation comes with a high number of measurements. Presents a challenge for limited storage space.
+Dimensionality reduction - Removes noise from data and compress data in a smaller dimensional subspace while retaining relevant information.
+
+INTRO TO BASIC TERMINOLOGY AND NOTATIONS (page 11)
+Training example - a row in a datatable
+Training - model fitting
+Feature, x - a column in a data table
+Target, y - outcome, response variable, class, label
+Loss function - sometimes called a cost function or error function.
+
+PREPROCESSING - GETTING DATA INTO SHAPE
+Raw data usually doesn't come in a shape/form that is ideal for optimal performance of a learning algorithm.
+
+
+
+
+
