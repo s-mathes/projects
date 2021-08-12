@@ -9,6 +9,5 @@ to  communicate  with  each  other  across  a TCP/IP network.  Only IPv4 address
 The user initiates the client program using its name (mftp) with one required command line argument 
 (in addition to the name of the program).  This argument will be interpreted by the client program as 
 the name of the host on which the mftpserve process is running and to which the client will connect. 
-The hostname may be either a symbolichost name or IPv4 dotted-decimal notation. 
+The hostname may be either a symbolic host name or IPv4 dotted-decimal notation. 
 
-Server and client send signals to each other as was detailed in project assignment write-up.
